@@ -71,7 +71,7 @@ https://www.iuav.it
 
 ## RELEVANT PROJECTS
 
-- **vodit:** Minimal dependency injector. No frills, no dependencies, no decorators.
+- **vodit:** Minimalist dependency injector. No frills, no dependencies, no decorators.
 https://singintime.github.io/vodit
 - **SDT:** Developer and maintainer from 2014 to 2017. https://github.com/SkATVG/SDT
 - **MaIs:** Performance presented in Milan in 2013. Co-author. https://vimeo.com/86330894
