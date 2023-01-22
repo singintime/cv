@@ -3,18 +3,18 @@
 Software engineer with more than ten years of professional experience in frontend development and Digital Signal Processing. Passionate about music, sports, problem solving, and beautiful code.
 
 **Birthdate:** 27 September 1986 \
-**Address**: Richard-Sorge-Straße 25A, 10249 Berlin \
+**Address**: Mühsamstraße 39, 10249 Berlin \
 **Email:** stefanobaldan@mail.com \
 **Phone** +49 17632871561
 
 ## WORK EXPERIENCE
 
-### Nov 2021 &rarr; Present: Frontend Engineer @ Miro
+### Nov 2021 &rarr; Present: Frontend Software Engineer @ Miro
 
 https://www.miro.com
 
-- Improving the performance of the Miro client application, based on HTML Canvas.
-- Efficient rendering of collaborative whiteboards in real time, using the Canvas and WebGL APIs.
+- Researching and developing Accessibility solutions for custom content rendered in the HTML Canvas
+- Improving the performance of the Miro client application, using the Canvas and WebGL APIs.
 - Improvement of agile team processes such as sprint plannings, backlog refinements, and retros.
 
 ### Jan 2021 &rarr; Oct 2021: Engineering Team Lead @ byrd
