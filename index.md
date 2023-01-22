@@ -13,8 +13,8 @@ Software engineer with more than ten years of professional experience in fronten
 
 https://www.miro.com
 
-- Researching and developing Accessibility solutions for custom content rendered in the HTML Canvas
-- Improving the performance of the Miro client application, using the Canvas and WebGL APIs.
+- Research and development of Accessibility solutions for custom Web content, rendered in the HTML Canvas
+- Improvement of the rendering performance in the Miro Client, using the Canvas and WebGL APIs.
 - Improvement of agile team processes such as sprint plannings, backlog refinements, and retros.
 
 ### Jan 2021 &rarr; Oct 2021: Engineering Team Lead @ byrd
